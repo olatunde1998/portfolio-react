@@ -8,7 +8,7 @@ import Node from '../assets/node.png';
 import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-import Mongo from '../assets/mongo.png';
+// import Mongo from '../assets/mongo.png';
 import Python from '../assets/Python.png';
 import AdobePhotoshop from '../assets/adobe-photoshop.png';
 import Figma from '../assets/figma.png';
