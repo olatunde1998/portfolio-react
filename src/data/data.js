@@ -10,14 +10,14 @@ export const data=[
         id:1,
         name:"React JS Application",
         image:GogeAfrica,
-        github:"https://goge-africaa.netlify.app/",
-        live:"",
+        github:"https://github.com/olatunde1998/portfolio-react",
+        live:"https://goge-africaa.netlify.app/",
     },
     {
         id:2,
         name:"Next JS Application",
         image:FurnitureApp,
-        github:"",
+        github:"https://github.com/olatunde1998/furniture-app",
         live:"",
     },
     {
