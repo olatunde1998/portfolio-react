@@ -21,7 +21,7 @@ Here's some notes about my detail link about my portfolio: 👎
 
 
 # Prototype
-![Minion](assets/readme_image.png)
+![Minion](public/readme_image.png)
  
 # How to Contribute
 
