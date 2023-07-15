@@ -9,7 +9,7 @@ import FireBase from "../assets/firebase.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
 // import Mongo from '../assets/mongo.png';
-import Python from "../assets/Python.png";
+// import Python from "../assets/Python.png";
 import AdobePhotoshop from "../assets/adobe-photoshop.png";
 import Figma from "../assets/figma.png";
 import NextJs from "../assets/nextjs.png";
@@ -66,7 +66,7 @@ const Skills = () => {
             <p className="my-4">VUE JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Python} alt="HTML icon" />
+            <img className="w-20 mx-auto" src={VueJs} alt="HTML icon" />
             <p className="my-4">PYTHON</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
