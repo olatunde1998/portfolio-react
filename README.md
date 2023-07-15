@@ -1,7 +1,13 @@
-# Porfolio 
+# Portfolio
 
 Hello, 👋 \
 I'm Rasheed Olatunde (Frontend Developer)
+```
+Here's some notes about my detail link about my portfolio: 👎
+
+1. A link to the repository of my portfolio:  https://github.com/olatunde1998/portfolio-react
+
+2. A publicly live hosted URL of the portfolio:  https://geodev-portfolio-app.netlify.app/
 
 
 ```
@@ -9,8 +15,9 @@ I'm Rasheed Olatunde (Frontend Developer)
 
  + [JavaScript](https://javascript.info/) 
  + [ReactJs](https://react.dev/) 
- + [Vercel](https://vercel.com/dashboard) 
  + [TailwindCss](https://tailwindcss.com/) 
+ + [Vercel](https://vercel.com/dashboard) 
+
 
 
 # Prototype
