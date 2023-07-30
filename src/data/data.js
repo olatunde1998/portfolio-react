@@ -1,16 +1,17 @@
 import RealEst from "../assets/projects/realestate.jpg";
 import GogeAfrica from "../assets/projects/goge-africa.jpeg";
-import Dashboard from "../assets/projects/dashboard.jpeg";
+import LMS from "../assets/projects/lms.png";
 import CarefinderApp from "../assets/projects/carefinder.png";
 import EPPS from "../assets/projects/epps_app.png";
 
 export const data = [
+  
   {
     id: 1,
     name: "React JS Application",
-    image: GogeAfrica,
-    github: "https://github.com/olatunde1998/portfolio-react",
-    live: "https://goge-africaa.netlify.app/",
+    image: LMS,
+    github: "https://github.com/olatunde1998/online-learning-app",
+    live: "https://online-learning-application.vercel.app/",
   },
   {
     id: 2,
@@ -29,9 +30,9 @@ export const data = [
   {
     id: 4,
     name: "React JS Application",
-    image: Dashboard,
-    github: "https://github.com/olatunde1998/lendsqr-fe-test",
-    live: "https://rasheed-olatunde-lendsqr-fe-test.netlify.app/",
+    image: GogeAfrica,
+    github: "https://github.com/olatunde1998/portfolio-react",
+    live: "https://goge-africaa.netlify.app/",
   },
   {
     id: 5,

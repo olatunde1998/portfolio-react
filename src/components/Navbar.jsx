@@ -4,7 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import RasheedLogo from "../assets/rasheed_logo.png";
 import { Link } from "react-scroll";
-import Resume from "../assets/rasheed_olatunde_resume.pdf";
+import Resume from "../assets/rasheed_olatunde_cv.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

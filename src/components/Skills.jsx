@@ -1,19 +1,15 @@
-import React from "react";
-
 import HTML from "../assets/html.png";
 import CSS from "../assets/css.png";
 import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
-// import Node from '../assets/node.png';
 import FireBase from "../assets/firebase.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
-// import Mongo from '../assets/mongo.png';
-// import Python from "../assets/Python.png";
-import AdobePhotoshop from "../assets/adobe-photoshop.png";
 import Figma from "../assets/figma.png";
 import NextJs from "../assets/nextjs.png";
 import VueJs from "../assets/vuejs-logo.png";
+import Python from "../assets/python.png";
+import ReactNative from "../assets/react-native.png";
 
 const Skills = () => {
   return (
@@ -49,7 +45,7 @@ const Skills = () => {
             <p className="my-4">REACT</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={NextJs} alt="HTML icon" />
+            <img className="w-28 mx-auto" src={NextJs} alt="HTML icon" />
             <p className="my-4">NEXTJS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -66,8 +62,8 @@ const Skills = () => {
             <p className="my-4">VUE JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={VueJs} alt="HTML icon" />
-            <p className="my-4">PYTHON</p>
+            <img className="w-50 mx-auto" src={Python} alt="HTML icon" />
+            {/* <p className="my-4">PYTHON</p> */}
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Figma} alt="HTML icon" />
@@ -75,11 +71,10 @@ const Skills = () => {
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
-              className="w-20 mx-auto"
-              src={AdobePhotoshop}
+              className="w-[130px] mx-auto"
+              src={ReactNative}
               alt="HTML icon"
             />
-            <p className="my-4">ADOBE PHOTOSHOP</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={FireBase} alt="HTML icon" />
