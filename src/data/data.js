@@ -3,6 +3,8 @@ import GogeAfrica from "../assets/projects/goge-africa.jpeg";
 import LMS from "../assets/projects/lms.png";
 import CarefinderApp from "../assets/projects/carefinder.png";
 import EPPS from "../assets/projects/epps_app.png";
+import TravelManager from "../assets/projects/travel-manager.png";
+
 
 export const data = [
   
@@ -23,9 +25,9 @@ export const data = [
   {
     id: 3,
     name: "Next JS Application",
-    image: EPPS,
-    github: "https://github.com/olatunde1998/",
-    live: "http://web.integral-it.africa/",
+    image: TravelManager,
+    github: "https://github.com/olatunde1998/travel-manager-app",
+    live: "https://travel-manager-app.vercel.app/",
   },
   {
     id: 4,
