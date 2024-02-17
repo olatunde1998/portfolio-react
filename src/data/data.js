@@ -5,18 +5,12 @@ import CarefinderApp from "../assets/projects/carefinder.png";
 import EPPS from "../assets/projects/epps_app.png";
 import TravelManager from "../assets/projects/travel-manager.png";
 import Connect from "../assets/projects/connect.png";
-
-
-
-
-
-
+import LisPendens from "../assets/projects/lis-pendens.png";
 
 export const data = [
-  
   {
     id: 1,
-    name: "ReactJS Application",
+    name: "NextJS Application",
     image: LMS,
     github: "https://github.com/olatunde1998/online-learning-app",
     live: "https://online-learning-application.vercel.app/",
@@ -60,6 +54,13 @@ export const data = [
     id: 7,
     name: "React JS Application",
     image: RealEst,
+    github: "",
+    live: "",
+  },
+  {
+    id: 8,
+    name: "ReactJs + Vite Application",
+    image: LisPendens,
     github: "",
     live: "",
   },
