@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Portfolion</h1>
+<h1>Portfolio</h1>
 <h6><i>Rasheed Olatunde Portfolio Web Application</i></h6>
 <hr />
 </div>
