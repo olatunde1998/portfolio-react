@@ -1,4 +1,8 @@
-# Portfolio
+<div align="center">
+<h1>Portfolion</h1>
+<h6><i>Rasheed Olatunde Portfolio Web Application</i></h6>
+<hr />
+</div>
 
 Hello, 👋 \
 I'm Rasheed Olatunde (Frontend Developer)
@@ -8,7 +12,6 @@ Here's some notes about my detail link about my portfolio: 👎
 1. A link to the repository of my portfolio:  https://github.com/olatunde1998/portfolio-react
 
 2. A publicly live hosted URL of the portfolio:  https://geodev-portfolio-app.netlify.app/
-
 
 ```
 # Technologies 
